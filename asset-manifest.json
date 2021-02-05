@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Open-src-Org-Forum/static/css/main.c1891c59.chunk.css",
+    "main.js": "/Open-src-Org-Forum/static/js/main.19696896.chunk.js",
+    "main.js.map": "/Open-src-Org-Forum/static/js/main.19696896.chunk.js.map",
+    "runtime-main.js": "/Open-src-Org-Forum/static/js/runtime-main.8150a84f.js",
+    "runtime-main.js.map": "/Open-src-Org-Forum/static/js/runtime-main.8150a84f.js.map",
+    "static/css/2.150d169a.chunk.css": "/Open-src-Org-Forum/static/css/2.150d169a.chunk.css",
+    "static/js/2.7071e3fe.chunk.js": "/Open-src-Org-Forum/static/js/2.7071e3fe.chunk.js",
+    "static/js/2.7071e3fe.chunk.js.map": "/Open-src-Org-Forum/static/js/2.7071e3fe.chunk.js.map",
+    "index.html": "/Open-src-Org-Forum/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Open-src-Org-Forum/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c1891c59.chunk.css.map": "/Open-src-Org-Forum/static/css/main.c1891c59.chunk.css.map",
+    "static/js/2.7071e3fe.chunk.js.LICENSE.txt": "/Open-src-Org-Forum/static/js/2.7071e3fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8150a84f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7071e3fe.chunk.js",
+    "static/css/main.c1891c59.chunk.css",
+    "static/js/main.19696896.chunk.js"
+  ]
+}
